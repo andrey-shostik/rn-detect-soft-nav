@@ -1,0 +1,54 @@
+{
+  "_from": "github:OurCnC/rn-detect-soft-nav",
+  "_id": "rn-detect-soft-nav@1.1.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/rn-detect-soft-nav",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "rn-detect-soft-nav@github:OurCnC/rn-detect-soft-nav",
+    "name": "rn-detect-soft-nav",
+    "escapedName": "rn-detect-soft-nav",
+    "rawSpec": "github:OurCnC/rn-detect-soft-nav",
+    "saveSpec": "github:OurCnC/rn-detect-soft-nav",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:OurCnC/rn-detect-soft-nav#ec5c3ef4708cfc8fb4c3d08cda182196705e7300",
+  "_spec": "rn-detect-soft-nav@github:OurCnC/rn-detect-soft-nav",
+  "_where": "/Users/andrej/dev/OurCncReactNative",
+  "author": {
+    "name": "Aaron Ross"
+  },
+  "bugs": {
+    "url": "https://github.com/superhawk610/rn-detect-soft-nav/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Listen for visiblity changes on the Android soft navigation bar in React Native and respond accordingly.",
+  "homepage": "https://github.com/superhawk610/rn-detect-soft-nav#readme",
+  "keywords": [
+    "react",
+    "native",
+    "soft",
+    "nav",
+    "navigation",
+    "bar",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "rn-detect-soft-nav",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superhawk610/rn-detect-soft-nav.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
